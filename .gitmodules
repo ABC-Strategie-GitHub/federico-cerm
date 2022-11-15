@@ -1,0 +1,4 @@
+[submodule "OCA/connector-jira"]
+	path = OCA/connector-jira
+	url = git@github.com:OCA/connector-jira.git
+	branch = 14.0
